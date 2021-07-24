@@ -1,0 +1,32 @@
+.list {
+  width: 100%;
+  min-height: 100vh;
+  background: rgba(116, 185, 255, 0.8);
+  border-radius: 20px;
+}
+.user {
+  width: 100%;
+  position: relative;
+  height: 40vh;
+}
+.developer-img {
+  width: 10em;
+  height: 10em;
+  border-radius: 50%;
+  margin: 1.5em auto;
+}
+.developer-name {
+  margin: 0.5em auto;
+}
+
+.pro-links {
+  display: block;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 5em;
+  color: #fff;
+  text-decoration: none;
+}

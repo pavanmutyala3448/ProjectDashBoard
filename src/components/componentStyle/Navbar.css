@@ -1,0 +1,29 @@
+.navbar {
+  width: 100%;
+  border-radius: 20px;
+  background: #fff;
+  margin-top: 0.5em;
+  box-shadow: 1px 1px 7px #74b9ff;
+}
+.navbar-brand .nav-logo {
+  width: 3em;
+
+  padding-left: 1em;
+}
+.btn {
+  width: 8em;
+  height: 2.5em;
+  background: linear-gradient(#74b9ff 99%, #fff 1%);
+  color: #fff;
+  border-radius: 20px;
+}
+.d-flex {
+  margin-right: 2em;
+}
+.navbar-nav {
+  margin-left: 2em;
+  color: #74b9ff;
+}
+.nav-link {
+  margin: auto 2em;
+}
